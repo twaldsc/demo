@@ -5,6 +5,9 @@ public class Main {
         System.out.println("Here is some Work");
     }
     
+    public void newMainWork() {
+    }
+    
     public static void main(String[] args) {
         System.out.println("Hello world Master");
         Main main = new Main();
